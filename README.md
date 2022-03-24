@@ -11,3 +11,8 @@
     O primeiro website do mundo foi lançado por ele em 6 de agosto de 1991. O conteúdo simplesmente descrevia a forma de funcionamento dessa nova forma de conexão. O domínio 🌎 era http://info.cern.ch, e até hoje está no ar em sua forma original.
 - O que é a W3C?<br>
     O Consórcio World Wide Web (W3C) é um consórcio internacional no qual organizações filiadas, uma equipe em tempo integral e o público trabalham juntos para desenvolver padrões para a Web.
+
+# Editores de texto
+Notepad++
+VS Code
+Sublime TeXt
