@@ -1,1 +1,1 @@
-# Curso-de-HTML5-Node-Studio-treinamentos
+# Curso de HTML5 - NodeStudio Treinamentos
